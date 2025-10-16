@@ -1,24 +1,4 @@
 ## Hi, I'm Prachiti Parulekar! 👋
-
-**Machine Learning Enthusiast • Computer Engineering Student**
-
-- 🔭 Currently building: CivicsightAI - Intelligent Infrastructure Monitoring System for Smart Cities
-- 🌱 Learning: Deep Learning • MLOps • Advanced ML Deployment
-- 📫 How to reach me: prachitiparulekar14@gmail.com
-
----
-
-## 🌟 Skills
-
-### 🛠️ Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🧠 Data Science & ML
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -46,24 +26,22 @@
 ---
 
 ## 📊 Featured Projects
-
-- [Pothole Detection](https://github.com/PrachitiSParulekar/Pothole-Detection): Civic infrastructure monitoring with spatial analytics, automated complaint routing.
-- [Loan Default Prediction](https://github.com/PrachitiSParulekar/loan-default-prediction): ML model for risk assessment in finance.
-- [FashionMNIST Transfer Learning](https://github.com/PrachitiSParulekar/fashion-mnist-transfer): Advanced computer vision with ResNet, PyTorch.
-- [Traffic Sign Classification](https://github.com/PrachitiSParulekar/traffic-sign-classification): Multiclass image classification, CNN baseline and ensemble models.
+- [Pothole Detection](https://github.com/PrachitiSParulekar/Pothole-Detection): Civic infrastructure monitoring with spatial analytics and automated complaint routing.
+- [PDF Assistant](https://github.com/PrachitiSParulekar/PDF-Assistant): AI-powered tool for intelligent document parsing and question answering.
+- [Bug Bounty Automation](https://github.com/PrachitiSParulekar/Bug-Bounty-Automation): Automated security vulnerability scanning and reporting system.
+- [Savvy](https://github.com/PrachitiSParulekar/Savvy): Smart personal finance manager with ML-driven insights and predictions.
+- [Reddit Stock Sentiment Analyzer](https://github.com/PrachitiSParulekar/Reddit-Stock-Sentiment-Analyzer): NLP-based sentiment analysis for stock market discussions on Reddit.
 
 ---
 
 ## 🔗 Connect & Collaborate
-
 - 💬 Ask me about: Machine learning, CV, spatial databases, civic tech
 - 👯 Looking to collaborate on: Civic technology, data-driven public solutions, AI research
-- ✍️ Technical writing and knowledge sharing – check out my [GitHub Portfolio](https://github.com/PrachitiSParulekar?tab=repositories)
-  
+- ✍️ Technical writing and knowledge sharing – check out my [GitHub Portfolio](https://github.com/PrachitiSParulekar?tab=repositories)  
+
 ---
 
 ## ⚡ Fun Fact
-
 I love building ML models from scratch and documenting my learning journey for future learners! 🚀
 
 ---
