@@ -1,11 +1,9 @@
 ## Hi, I'm Prachiti Parulekar! 👋
 
-**Computer Science student at University of Mumbai | ML intern @ Corizo | Data Mining & ML from scratch | Technical project builder | Daily coding, note-taking & stepwise learning | GitHub portfolio | DSA/LeetCode prep | Passion for technical blogging.**
+Computer Science student, ML intern, Data Mining enthusiast, Technical project builder, DSA/LeetCode prep.
 
 ---
-
 ### 🧠 Python/ML Libraries & Frameworks
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -20,9 +18,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logo)
 ![SHAP](https://img.shields.io/badge/SHAP-FF7043?style=for-the-badge&logo=python&logoColor=white)
 ![LIME](https://img.shields.io/badge/LIME-43AA8B?style=for-the-badge&logo=python&logoColor=white)
-
 ### 🗄️ Dev Platforms & Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -30,10 +26,6 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ---
-
 ## 📊 Featured Projects
-
 - • [Pothole Detection](https://github.com/PrachitiSParulekar/Pothole-Detection): Civic infrastructure monitoring with spatial analytics and automated complaint routing.
-- • [PDF Assistant](https://github.com/PrachitiSParulekar/PDF-Assistant): AI-powered tool for intelligent document parsing and question answering.
