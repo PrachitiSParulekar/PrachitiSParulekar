@@ -51,7 +51,6 @@
 - [Loan Default Prediction](https://github.com/PrachitiSParulekar/loan-default-prediction): ML model for risk assessment in finance.
 - [FashionMNIST Transfer Learning](https://github.com/PrachitiSParulekar/fashion-mnist-transfer): Advanced computer vision with ResNet, PyTorch.
 - [Traffic Sign Classification](https://github.com/PrachitiSParulekar/traffic-sign-classification): Multiclass image classification, CNN baseline and ensemble models.
-- [ML Algorithms from Scratch](https://github.com/PrachitiSParulekar/ml-algorithms): Linear regression, logistic regression, KNN, written and documented from scratch.
 
 ---
 
