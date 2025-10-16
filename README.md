@@ -47,7 +47,7 @@
 
 ## 📊 Featured Projects
 
-- [CivicsightAI](https://github.com/PrachitiSParulekar/CivicsightAI): Civic infrastructure monitoring with spatial analytics, automated complaint routing.
+- [Pothole Detection](https://github.com/PrachitiSParulekar/Pothole-Detection): Civic infrastructure monitoring with spatial analytics, automated complaint routing.
 - [Loan Default Prediction](https://github.com/PrachitiSParulekar/loan-default-prediction): ML model for risk assessment in finance.
 - [FashionMNIST Transfer Learning](https://github.com/PrachitiSParulekar/fashion-mnist-transfer): Advanced computer vision with ResNet, PyTorch.
 - [Traffic Sign Classification](https://github.com/PrachitiSParulekar/traffic-sign-classification): Multiclass image classification, CNN baseline and ensemble models.
