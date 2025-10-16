@@ -1,7 +1,10 @@
-##
- Hi, I'm Prachiti Parulekar! 👋
+## Hi, I'm Prachiti Parulekar! 👋
 
-**Computer Science student | ML intern @ Corizo | Data mining | Technical project builder | Interview prep | GitHub portfolio creator | Step-by-step learning**
+**Computer Science student at University of Mumbai | ML intern @ Corizo | Data Mining & ML from scratch | Technical project builder | Daily coding, note-taking & stepwise learning | GitHub portfolio | DSA/LeetCode prep | Passion for technical blogging.**
+
+---
+
+### 🧠 Python/ML Libraries & Frameworks
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -13,12 +16,13 @@
 ![seaborn](https://img.shields.io/badge/Seaborn-0769AD?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0064a5?style=for-the-badge&logo=mlflow&logoColor)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFC800?style=for-the-badge&logo=weightsandbias)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFC800?style=for-the-badge&logo=weightsandbiases)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logo)
 ![SHAP](https://img.shields.io/badge/SHAP-FF7043?style=for-the-badge&logo=python&logoColor=white)
 ![LIME](https://img.shields.io/badge/LIME-43AA8B?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Dev/Tools
+### 🗄️ Dev Platforms & Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -30,5 +34,6 @@
 ---
 
 ## 📊 Featured Projects
-- [Pothole Detection](https://github.com/PrachitiSParulekar/Pothole-Detection): Civic infrastructure monitoring with spatial analytics and automated complaint routing.
-- [PDF Assistant](https://github.com/PrachitiSParulekar/PDF-Assistant): AI-powered tool for intelligent document parsing and question answering.
+
+- • [Pothole Detection](https://github.com/PrachitiSParulekar/Pothole-Detection): Civic infrastructure monitoring with spatial analytics and automated complaint routing.
+- • [PDF Assistant](https://github.com/PrachitiSParulekar/PDF-Assistant): AI-powered tool for intelligent document parsing and question answering.
