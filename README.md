@@ -1,4 +1,8 @@
-## Hi, I'm Prachiti Parulekar! 👋
+##
+ Hi, I'm Prachiti Parulekar! 👋
+
+**Computer Science student | ML intern @ Corizo | Data mining | Technical project builder | Interview prep | GitHub portfolio creator | Step-by-step learning**
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -28,22 +32,3 @@
 ## 📊 Featured Projects
 - [Pothole Detection](https://github.com/PrachitiSParulekar/Pothole-Detection): Civic infrastructure monitoring with spatial analytics and automated complaint routing.
 - [PDF Assistant](https://github.com/PrachitiSParulekar/PDF-Assistant): AI-powered tool for intelligent document parsing and question answering.
-- [Bug Bounty Automation](https://github.com/PrachitiSParulekar/Bug-Bounty-Automation): Automated security vulnerability scanning and reporting system.
-- [Savvy](https://github.com/PrachitiSParulekar/Savvy): Smart personal finance manager with ML-driven insights and predictions.
-- [Reddit Stock Sentiment Analyzer](https://github.com/PrachitiSParulekar/Reddit-Stock-Sentiment-Analyzer): NLP-based sentiment analysis for stock market discussions on Reddit.
-
----
-
-## 🔗 Connect & Collaborate
-- 💬 Ask me about: Machine learning, CV, spatial databases, civic tech
-- 👯 Looking to collaborate on: Civic technology, data-driven public solutions, AI research
-- ✍️ Technical writing and knowledge sharing – check out my [GitHub Portfolio](https://github.com/PrachitiSParulekar?tab=repositories)  
-
----
-
-## ⚡ Fun Fact
-I love building ML models from scratch and documenting my learning journey for future learners! 🚀
-
----
-
-*Let's connect, build, and solve real-world problems together!*
